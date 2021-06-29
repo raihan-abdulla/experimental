@@ -1,0 +1,2 @@
+language = "python3"
+run = "age-calculator/age_calculator.py"
